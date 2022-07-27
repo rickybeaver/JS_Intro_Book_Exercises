@@ -31,7 +31,7 @@ However, if the first character of the input is not a valid digit, the age varia
 // if (Number.isNaN(age)) {
 //   console.log('Error! That is not a number.')
 // } else {
-//   console.log('You are ' + age + ' years old.')
+//   console.log(`You are ${age} years old.`);
 //   console.log(`In 10 years, you will be ${age + 10} years old.`)
 //   console.log(`In 20 years, you will be ${age + 20} years old.`)
 //   console.log(`In 30 years, you will be ${age + 30} years old.`)
