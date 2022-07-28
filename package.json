@@ -1,0 +1,23 @@
+{
+  "name": "intro_book",
+  "version": "1.0.0",
+  "description": "Repository set up to do all exercises in LaunchSchool's Intro to Programming with Javascript book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickybeaver/JS_Intro_Book_Exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickybeaver/JS_Intro_Book_Exercises/issues"
+  },
+  "homepage": "https://github.com/rickybeaver/JS_Intro_Book_Exercises#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
