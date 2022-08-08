@@ -7,6 +7,7 @@ let obj = {
 };
 // You don't have to search the object. Just write an assignment that replaces the 6.
 
-obj.bar[3]['xyz'] = 606;
-// Or 
-obj['bar'][3].xyz = 606;
+// Dot notation
+obj.bar[3].xyz = 606;
+// Bracket notation
+obj['bar'][3]['xyz'] = 606;
